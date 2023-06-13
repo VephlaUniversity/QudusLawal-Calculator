@@ -1,2 +1,2 @@
-# QudusLawal-Calculator
-Qudus Lawal Calculator project
+# Calculator
+Designing a simple -attractive- functional calculator
